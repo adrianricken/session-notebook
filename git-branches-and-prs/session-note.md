@@ -1,15 +1,14 @@
-pr = pull request
-main branch = accessed by everyone in the project
-side branch = separate branch to work on a part of the main branch
-
+- pr = pull request
+- main branch = accessed by everyone in the project
+- side branch = separate branch to work on a part of the main branch
 
 commands:
-git switch -c <branchname> | create a new branch AND switch to it
-git switch <branchname> | switch branches
-git branch | list your branches
-git branch -a | list all branches (local and remote)
-git branch -d <branchname> | delete a branch
 
+- git switch -c <branchname> | create a new branch AND switch to it
+- git switch <branchname> | switch branches
+- git branch | list your branches
+- git branch -a | list all branches (local and remote)
+- git branch -d <branchname> | delete a branch
 
 remote / origin
 
