@@ -14,7 +14,11 @@ remote / origin
 
 1. create a new branch
 2. make changes to code / write your code for the feature
-3. push changes and the new branch with "git push -u origin <branchname>" - after done once "git push" is enough for this branch
+3. git add . / filenames
+   - git commit -m "note"
+   - git push origin branchname
+   - git pull origin main
+   - push changes and the new branch with "git push -u origin <branchname>" - after done once "git push" is enough for this branch
 4. create pull request on GitHub from new branch into main
 5. share pull request with team
 6. review pull request, implement changes if needed, push again to update pull request until it gets approved
