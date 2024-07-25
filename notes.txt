@@ -1,0 +1,6 @@
+shell = command interpreter (here zsh)
+terminal = iterm , VS Code , ...
+    -> sends commands to shell and displays it out
+
+pwd = current directory path
+cat <filename> = see content of a filename
