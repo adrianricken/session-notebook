@@ -4,3 +4,4 @@ terminal = iterm , VS Code , ...
 
 pwd = current directory path
 cat <filename> = see content of a filename
+
