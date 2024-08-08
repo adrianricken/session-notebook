@@ -5,3 +5,19 @@ terminal = iterm , VS Code , ...
 pwd = current directory path
 cat <filename> = see content of a filename
 
+TERMINAL:
+
+Shell == program running inside the Terminal to execute commands
+
+
+Commands:
+ls == list objects inside current folder
+ls -l == list objects inside current folder with further information
+ls -a == list all objects (also hidden ones) inside current folder
+ls -la == combination of ls -a + ls -l
+cd == change directory
+cd .. == navigate into parent folder
+mkdir xy == make folder called xy
+rmdir xy == remove folder called xy (only possible if empty)
+touch file.xy == create (file called file) of type xy
+cat file.xy == shows content of "file"
